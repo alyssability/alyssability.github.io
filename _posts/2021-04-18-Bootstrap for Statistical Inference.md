@@ -3,13 +3,13 @@ published: true
 ---
 We live in the most data driven era in history. The websites we scroll through, coffee shops we visit, even our voter registrations are bits of data that are being collected daily; however, none of these data sets are perfect. Typically, data analysis involves making informed estimations of population characteristics using a sample of the population of interest. Sometimes these sample sizes are very small relative to the population and with a high degree of variance. 
 
-This article is a summary of my self-selected Senior Exercise in Theoretical Mathematics focusing on the classical background and modern applications of the Bootstrapping Algorithm. At the end of this paper you should be able to answer:
+This article is a summary of my self-selected Senior Exercise in Theoretical Mathematics focusing on the classical background and modern applications of the Bootstrapping Algorithm. The full paper is available at: [Bootstrapping for Statistical Inference](https://www.linkedin.com/in/alyssaraywilliams/detail/treasury/education:256028703/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABdluQwBnbuo1o62aarNsG0cKXLLQqvVGkI%2C1617934975822)&section=education%3A256028703&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B57ft9Hy6Qo28Qm3%2FsQi4qg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell). At the end of the paper you should be able to answer:
 
 1. What is the Boostrapping Algorithm & when is it a useful technique for statistical inference?
 
 2. What are the characteristics of a bootsample?
 
-3. How does increasing the repetition of resampling relate to a more accurate estiamtion of a population parameter?
+3. How does increasing the repetition of resampling relate to a more accurate estimation of a population parameter?
 
 4. What are appropriate applications of the bootstrapping algorithm for enabling statistical inference? 
 
@@ -41,8 +41,6 @@ THE SOLUTION: Since your sample size is small, only the twelve competitors, with
 - Section 3: We use the ideal bootstrap estimate of the standard error of a statistic to demonstrate how bootstrapping is an innovative method for evaluating the accuracy of statistical estimates when the number of iterations is large. 
 - Sections 4 and 5: We use a selection of 2016 Presidential Election polls and data from Factor Finders, LLC. to create bootstrap estimates of means and confidence intervals. 
 - Section 6: Outlines a bootstrap hypothesis test. 
-
-The full paper is available at: [Bootstrapping for Statistical Inference](https://www.linkedin.com/in/alyssaraywilliams/detail/treasury/education:256028703/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABdluQwBnbuo1o62aarNsG0cKXLLQqvVGkI%2C1617934975822)&section=education%3A256028703&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B57ft9Hy6Qo28Qm3%2FsQi4qg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)
 
 ## Sources | Suggested Reading
 
