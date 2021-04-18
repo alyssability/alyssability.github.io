@@ -1,13 +1,32 @@
 ---
 layout: post
-title: You're up and running!
+title: Let's Talk Strengths
 published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+> Invented by Don Clifton, the CliftonStrengths assessment uncovers your unique rank order of 34 CliftonStrengths themes. Your CliftonStrengths themes are your talent DNA. They explain the ways you most naturally think, feel and behave.
 
 ![Oil Pastel Spiral]({{site.baseurl}}/images/FibOilPastel (2).jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## ADAPTABILITY | Relationship Building
+-Effectively manages ambiguity and approaches changes in routines, rules, and/or plans with flexibility.
+
+## ACHIEVER | Executing
+-Exceeding expectations and reaching goals spurs diligent work ethic with even greater purpose.
+-Puts a lot of effort into telling a story. Strives to amuse, entertain, and inform audience. 
+-Enjoys partnering with individuals who share a strong work ethic. 
+
+## FUTURISTIC | Strategic Thinking
+Self-assured in intelligence, imagination, and resourcefulness needed to achieve goals.
+Reaches goals by seeking out opportunities to showcase innovation and utilize strengths. 
+Considering upgrades and enhancements motivates excellence. 
+Helps people see the opportunities and possibilities that await them in the future.
+
+## HARMONY | Relationship Building
+Brings a spirit of friendliness and personal warmth to team.
+Easily establishes a rapport with others with personable style and optimistic attitude. 
+Helps members of a team identify what they have in common to set the stage for negotiating agreements and resolving conflicts
+	
+## INPUT| Strategic Thinking
+Has an insatiable appetite for more information.
+Routinely pinpoints areas where upgrades are needed.
+Enjoys discovering new techniques to do something even better. 
