@@ -42,6 +42,8 @@ THE SOLUTION: Since your sample size is small, only the twelve competitors, with
 - Sections 4 and 5: We use a selection of 2016 Presidential Election polls and data from Factor Finders, LLC. to create bootstrap estimates of means and confidence intervals. 
 - Section 6: Outlines a bootstrap hypothesis test. 
 
+The full paper is available at: [Bootstrapping for Statistical Inference](https://www.linkedin.com/in/alyssaraywilliams/detail/treasury/education:256028703/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABdluQwBnbuo1o62aarNsG0cKXLLQqvVGkI%2C1617934975822)&section=education%3A256028703&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B57ft9Hy6Qo28Qm3%2FsQi4qg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)
+
 ## Sources | Suggested Reading
 
 1. Sheld Ross. _A First Course in Probability_. Macmillan Publishing Co., Inc., New York, NY, 1976. 
