@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Strengths
+title: Let's Talk Strength Themes
 published: true
 ---
 > Invented by Don Clifton, the CliftonStrengths assessment uncovers your unique rank order of 34 CliftonStrengths themes. Your CliftonStrengths themes are your talent DNA. They explain the ways you most naturally think, feel and behave.
