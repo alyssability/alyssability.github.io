@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 We live in the most data driven era in history. The websites we scroll through, coffee shops we visit, even our voter registrations are bits of data that are being collected daily; however, none of these data sets are perfect. Typically, data analysis involves making informed estimations of population characteristics using a sample of the population of interest. Sometimes these sample sizes are very small relative to the population and with a high degree of variance. 
 
@@ -49,5 +49,4 @@ THE SOLUTION: Since your sample size is small, only the twelve competitors, with
 3. Bradley Efron and Robert J. Tibshirani. _An Introduction to the Bootstrap_. Chapman & Hall, New York, New York, 1993. 
 4. Ann R. Cannon et. al. STAT2 : _Building models for a world of data_. W.H. Freeman, New York, New York, 2013. 
 5. John A. Rice. _Mathematical Statistics and Data Analysis_. Brooks/Cole, Cengage Learn ing, Belmont, California, 2007. 
-7. A. C. Davison and D.V. Hinkley. _Bootstrap Methods and Their Application_. Cambridge University Press, New York, New York, 1997. 
-
+7. A. C. Davison and D.V. Hinkley. _Bootstrap Methods and Their Application_. Cambridge University Press, New York, New York, 1997.
