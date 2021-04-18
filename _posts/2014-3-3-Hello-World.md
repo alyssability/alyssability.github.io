@@ -3,7 +3,7 @@ layout: post
 title: Let's Talk Strength Themes
 published: true
 ---
-Let's explore my top CliftonStrengths themes. The first time I took this assessment the majority of my strengtsh reflected that I was in a time period of my life where I focused on external validation. Now, after graduating college and developing my analytical technology career for four years, I find the themes below truly resonate with the unique perspective I bring to my professional work.
+Let's explore my top CliftonStrengths themes. The first time I took this assessment the majority of my strengthd reflected that I was in a time period of my life where I focused on external validation. Now, after graduating college and developing my analytical technology career for four years, I find the themes below truly resonate with the unique perspective I bring to my professional work.
 
 > Invented by Don Clifton, the CliftonStrengths assessment uncovers your unique rank order of 34 CliftonStrengths themes. Your CliftonStrengths themes are your talent DNA. They explain the ways you most naturally think, feel and behave.
 
