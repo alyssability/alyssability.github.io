@@ -32,3 +32,5 @@ Let's explore my top CliftonStrengths themes. The first time I took this assessm
 - Has an insatiable appetite for more information.
 - Routinely pinpoints areas where upgrades are needed.
 - Enjoys discovering new techniques to do something even better.
+
+The real benefit of understanding these themes is through application of these strengths to accomplish your goals. Additionally, I've enjoyed working to ignite these strengths even further. For example, I used these strengths to find, interview amd land my last two roles in Technology Risk Management. 
