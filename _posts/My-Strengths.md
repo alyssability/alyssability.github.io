@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Let's explore my top CliftonStrengths themes. The first time I took this assessment the majority of my strengthd reflected that I was in a time period of my life where I focused on external validation. Now, after graduating college and developing my analytical technology career for four years, I find the themes below truly resonate with the unique perspective I bring to my professional work.
 
@@ -38,4 +38,3 @@ Flexing my futuristic mindset is an essential skills for risk quantification and
 - Has an insatiable appetite for more information.
 - Routinely pinpoints areas where upgrades are needed.
 - Enjoys discovering new techniques to do something even better.> We loved with a love that was more than love
-
