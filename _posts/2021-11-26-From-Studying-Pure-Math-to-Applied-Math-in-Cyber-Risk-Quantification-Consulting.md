@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What was my journey from studying pure math to becoming an applied mathematician?
 
@@ -53,6 +53,4 @@ My role is to apply mathematical reasoning to cyber risk quantification by clear
 
 Cyber Risk is a growing threat to both industry and consumers and provides a plethora of real-world data to filter through the lens of applied maths. While I continue to grow in place and prepare for an international move with my family, I am focused on researching and employing non-parametric statistical methods to the question of cyber risk quantification. The data I encounter daily in Cybersecurity is not Normal, not even unimodal, or the characteristics of the population are not known; this makes quantifying cyber risk a non-parametric problem in many cases. 
 
-I recently reached the milestone of working as an applied mathematician for five years, and my interests are again remolding. In the future, I am looking forward to learning more about the history of mathematics, ancient proofs of geometry, and indigenous mathematics. My passion is leaning more towards ethnomathematics, the study of mathematics in culture, such as documenting the diversity of naming and representation of numbers and counting systems. I'm excited about how much math there still is to learn, I am rewarded every day for following my intuition to study, teach, and visualize math, and I plan to continue to write about and share my love of math as long as I can. 
-
-
+I recently reached the milestone of working as an applied mathematician for five years, and my interests are again remolding. In the future, I am looking forward to learning more about the history of mathematics, ancient proofs of geometry, and indigenous mathematics. My passion is leaning more towards ethnomathematics, the study of mathematics in culture, such as documenting the diversity of naming and representation of numbers and counting systems. I'm excited about how much math there still is to learn, I am rewarded every day for following my intuition to study, teach, and visualize math, and I plan to continue to write about and share my love of math as long as I can.
